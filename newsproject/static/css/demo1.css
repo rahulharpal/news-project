@@ -1,0 +1,18 @@
+.container .jumbotron{
+  background: red;
+  color:white;
+  margin-top: 150px;
+}
+body{
+  background:
+  url(https://images.unsplash.com/photo-1494807143020-e958f7a1cc66?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2xpbWF0ZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60)
+}
+h1{
+  color:red;
+  font-size: 50px;
+}
+
+li{
+  color:blue;
+  font-size: 30px;
+}
